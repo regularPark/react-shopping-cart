@@ -26,6 +26,35 @@
 
 ## Step1
 
+### 🙏 페어(페어프로그래밍)
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/feb-dain" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/108778921?v=4" alt="야미(이다인) 프로필" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/regularPark" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/90092440?v=4" alt="레고(박정규) 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/feb-dain" target="_blank">
+        야미(이다인)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/regularPark" target="_blank">
+        레고(박정규)
+      </a>
+    </td>
+  </tr>
+</table>
+
 🚀 Getting Started
 다수의 컴포넌트를 페이지로 구성하고 복잡해진 상태를 관리합니다.
 
@@ -61,7 +90,7 @@
 Readability
 
 - [x] API 요청을 처리하는 공통 함수나 커스텀 훅을 작성하여 재사용 가능하게 만든다.
-- [ ] 페이지간 공통 스타일이 있는 경우 재사용한다.
+- [x] 페이지간 공통 스타일이 있는 경우 재사용한다.
       Reusability
 - [ ] 서버와의 통신을 담당하는 코드와 UI를 렌더링 하는 코드를 분리하여 관심사를 분리한다.
 - [ ] 에러 처리 로직을 명확하게 작성하여 코드의 가독성을 높인다.
